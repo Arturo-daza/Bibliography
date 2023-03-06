@@ -31,9 +31,9 @@ Si trabajan en local es importante que instalen
 
 Solucionar problema con la carga de la libreria Pandas Profiling en Colab
 
-'''
+,,,
 ! pip install https://github.com/pandas-profiling/pandas-profiling/archive/master.zip 
-'''
+,,,
 
 '''
 import os
