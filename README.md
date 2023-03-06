@@ -20,5 +20,22 @@ Si trabajan en local es importante que instalen
 
 ## Antecedentes
 
+> Cabrera, O., Franch, X., & Marco, J. (2017). Ontology-based context modeling in service-oriented computing: A systematic mapping. Data & Knowledge Engineering, 110, 24-53.
+
+> Petticrew, M., & Roberts, H. (2008). Systematic reviews in the social sciences: A practical guide. John Wiley & Sons.
+
+> Kitchenham, B., & Brereton, P. (2013). A systematic review of systematic review process research in software engineering. Information and software technology, 55(12), 2049-2075.
 
 
+## Fix Google Colab
+
+Solucionar problema con la carga de la libreria Pandas Profiling en Colab
+
+'''
+! pip install https://github.com/pandas-profiling/pandas-profiling/archive/master.zip 
+'''
+
+'''
+import os
+os._exit(00)
+'''
