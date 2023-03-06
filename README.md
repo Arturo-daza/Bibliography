@@ -39,3 +39,20 @@ Solucionar problema con la carga de la libreria Pandas Profiling en Colab
 import os
 os._exit(00)
 ```
+
+## Comando para Ejecutar Jupyter:
+
+En el video aparece cortado (desde el minuto 6 - aprox) cuando digito el comando para abrir Jupyter asi que lo agreo aqui para referencia:
+
+
+Para ejecutar en consola
+
+> jupyter lab
+
+Para instalar los requerimientos
+
+> pip install -r requirements.txt
+
+Activar el virtualenv
+
+> source venv/bin/activate
